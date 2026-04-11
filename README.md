@@ -3,10 +3,7 @@
 </h1>
 <p align="center">
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
-  <a href="https://github.com/Sara12370/Learning-Journey-of-Artificial-Intelligence/stargazers"><img src="https://img.shields.io/github/stars/Sara12370/Learning-Journey-of-Artificial-Intelligence?color=green" alt="GitHub stars"></a>
-  <a href="https://github.com/Sara12370/Learning-Journey-of-Artificial-Intelligence/commits/main"><img src="https://img.shields.io/github/last-commit/Sara12370/Learning-Journey-of-Artificial-Intelligence" alt="Last commit"></a>
-  <a href="https://github.com/Sara12370/Learning-Journey-of-Artificial-Intelligence"><img src="https://img.shields.io/badge/AI-Learning-orange" alt="AI Learning"></a>
-</p>
+
 
 <p align="center">
   <a href="https://stackblitz.com/github/Sara12370/Learning-Journey-of-Artificial-Intelligence"><img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt="Open in StackBlitz"></a>
