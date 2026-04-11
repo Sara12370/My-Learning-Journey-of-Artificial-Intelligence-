@@ -4,9 +4,8 @@
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
-  <a href="https://github.com/你的GitHub用户名/Learning-Journey-of-Artificial-Intelligence/stargazers"><img src="https://img.shields.io/github/stars/你的GitHub用户名/Learning-Journey-of-Artificial-Intelligence?color=green" alt="GitHub stars"></a>
-  <a href="https://github.com/你的GitHub用户名/Learning-Journey-of-Artificial-Intelligence/commits/main"><img src="https://img.shields.io/github/last-commit/你的GitHub用户名/Learning-Journey-of-Artificial-Intelligence" alt="Last commit"></a>
-  <a href="https://github.com/你的GitHub用户名/Learning-Journey-of-Artificial-Intelligence"><img src="https://img.shields.io/badge/AI-Learning-orange" alt="AI Learning"></a>
+
+ 
 </p>
 
 <p align="center">
